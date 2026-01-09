@@ -105,6 +105,5 @@ This project provides a structured and visual approach to understanding drug beh
 **Abraham Abiodun Olaoluwa**
 
 ---
-I am a data enthusiast passionate about transforming data into actionable insights. I enjoy uncovering patterns, building analytical solutions, and collaborating on impactful data-driven projects. Let's connect on via email abiodunabraham63@gmail.com, Linkedin www.linkedin.com/in/
-abraham-abiodun-b8058819b
+I am a data enthusiast passionate about transforming data into actionable insights. I enjoy uncovering patterns, building analytical solutions, and collaborating on impactful data-driven projects. Let's connect on via email abiodunabraham63@gmail.com, Linkedin www.linkedin.com/in/abraham-abiodun-b8058819b
 
