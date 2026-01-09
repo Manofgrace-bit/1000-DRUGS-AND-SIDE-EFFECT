@@ -97,7 +97,7 @@ Where:
 
 ## Conclusion
 
-This project provides a structured and visual approach to understanding drug behavior, side effects, and patient outcomes. By combining statistical analysis with interactive dashboards, it offers both **technical depth** and **executive-level clarity**, making it suitable for academic, analytical, and professional healthcare data analysis use cases.
+This project provides a structured and visual approach to understanding drug behavior, side effects, and patient outcomes. By combining statistical analysis with interactive dashboards, it offers both technical depth and executive-level clarity, making it suitable for academic, analytical, and professional healthcare data analysis use cases.
 
 ---
 
@@ -106,9 +106,6 @@ This project provides a structured and visual approach to understanding drug beh
 **Abraham Abiodun Olaoluwa**
 
 ---
-
-## License
-
-This project is for **academic and analytical purposes** only.
-
+I am a data enthusiast passionate about transforming data into actionable insights. I enjoy uncovering patterns, building analytical solutions, and collaborating on impactful data-driven projects. Let's connect on via email abiodunabraham63@gmail.com, Linkedin www.linkedin.com/in/
+abraham-abiodun-b8058819b
 
