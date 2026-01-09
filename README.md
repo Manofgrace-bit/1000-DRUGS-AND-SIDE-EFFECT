@@ -1,3 +1,4 @@
+# https://storage.googleapis.com/kaggle-datasets-images/8664010/13631274/017b329ab6e56799a7a5456be2c9f4f7/dataset-cover.jpg?t=2025-11-06-06-11-47
 # 1000-DRUGS-AND-SIDE-EFFECT
 This project analyzes a dataset of 1,000 pharmaceutical drugs to examine the relationships between drug types, dosage levels, treatment duration, patient improvement scores, and reported side effects. The objective is to generate data-driven insights that support better clinical decision-making,, improve patient outcomes, and highlight potential safety concerns associated with drug usage. Analytical techniques including descriptive statistics, pivot analysis and regression analysis were applied, with results visualized using Power BI dashboards for clarity and accessibility.
 ## RESEARCH-QUESTIONS
