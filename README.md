@@ -51,24 +51,6 @@ The analysis followed these key steps:
 │   └── Power BI dashboard files
 └── README.md
 ```
-
----
-
-## How to Use This Project
-
-1. Open the cleaned dataset in Excel to review the underlying data
-2. Load the dataset into Power BI to explore the interactive dashboards
-3. Use filters (drug, dosage, side effects) to drill down into specific insights
-4. Refer to the executive summary for high-level conclusions
-
----
-
-## Limitations
-
-* The dataset is limited to 1,000 records and may not represent all drugs or populations
-* Improvement scores are assumed to be consistently measured
-* Results should be interpreted as **analytical insights**, not clinical recommendations
-
 ---
 
 ## Conclusion
