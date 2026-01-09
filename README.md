@@ -30,8 +30,7 @@ The analysis followed these key steps:
 
    * Regression analysis to assess relationships between dosage, treatment duration, and improvement scores
    * # Regression Analysis – Patient Improvement and Dosage
-   * 
-## Model Specification
+**Model Specification**
 
 A **simple linear regression model** was applied to test the relationship between dosage and patient improvement:
 
