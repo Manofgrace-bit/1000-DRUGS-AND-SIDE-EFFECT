@@ -29,55 +29,7 @@ The analysis followed these key steps:
 3. **Statistical Analysis**
 
    * Regression analysis to assess relationships between dosage, treatment duration, and improvement scores
-   * # Regression Analysis – Patient Improvement and Dosage
-**Model Specification**
-
-A **simple linear regression model** was applied to test the relationship between dosage and patient improvement:
-
-**Improvement Score = β₀ + β₁(Dosage) + ε**
-
-Where:
-
-* **Dependent Variable (Y):** Patient Improvement Score
-* **Independent Variable (X):** Drug Dosage
-* **β₀:** Intercept
-* **β₁:** Effect of dosage on improvement score
-* **ε:** Error term
-
----
-
-## Regression Summary Statistics
-
-* **Number of Observations:** 1,000
-* **Multiple R:** ≈ 0.05
-* **R-Squared:** ≈ 0.002–0.003
-* **Adjusted R-Squared:** ≈ 0.001 or lower
-* **Standard Error:** ≈ 1.42
-* **Significance F (p-value):** > 0.05
-
----
-
-## Interpretation of Results
-
-* The **very low R-squared value** indicates that dosage explains **less than 1%** of the variation in patient improvement scores.
-* The **non-significant p-value** shows that the relationship between dosage and improvement score is **not statistically significant**.
-* This means that **changes in dosage alone do not reliably predict patient improvement**.
-
----
-   * pivot analysis to compare patient outcomes across different drugs or categories
-
-   * R² = 0.0026 (≈ 0.26%) Age and treatment duration together explain almost none of the variation in improvement scores.
-Adjusted R² = 0.0006 Confirms the model has very weak explanatory power.
-ANOVA (Significance F = 0.279) The regression model is NOT statistically significant overall.
-Age
-Coefficient = 0.00084
-p-value = 0.737 (> 0.05)
- Interpretation: A one-year increase in patient age increases the improvement score by only 0.0008 units, which is statistically insignificant.
-Age does NOT significantly influence improvement outcomes.
-Coefficient = 0.00449
-p-value = 0.118 (> 0.05)
-
-The multiple linear regression analysis shows that patient age does not significantly influence improvement outcomes, even when treatment duration is included in the model. Additionally, treatment duration itself does not have a statistically significant effect on improvement scores. The overall model is not significant (F = 1.28, p = 0.279), indicating that neither age nor treatment duration meaningfully explains variations in patient improvement outcomes.
+   * pivot analysis assess whether patient age influence improvement outcomes across different treatment
 
 4. **Visualization and Reporting**
 
