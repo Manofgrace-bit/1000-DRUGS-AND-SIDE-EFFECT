@@ -27,6 +27,42 @@ The analysis followed these key steps:
 3. **Statistical Analysis**
 
    * Regression analysis to assess relationships between dosage, treatment duration, and improvement scores
+   * # Regression Analysis – Patient Improvement and Dosage
+   * 
+## Model Specification
+
+A **simple linear regression model** was applied to test the relationship between dosage and patient improvement:
+
+**Improvement Score = β₀ + β₁(Dosage) + ε**
+
+Where:
+
+* **Dependent Variable (Y):** Patient Improvement Score
+* **Independent Variable (X):** Drug Dosage
+* **β₀:** Intercept
+* **β₁:** Effect of dosage on improvement score
+* **ε:** Error term
+
+---
+
+## Regression Summary Statistics
+
+* **Number of Observations:** 1,000
+* **Multiple R:** ≈ 0.05
+* **R-Squared:** ≈ 0.002–0.003
+* **Adjusted R-Squared:** ≈ 0.001 or lower
+* **Standard Error:** ≈ 1.42
+* **Significance F (p-value):** > 0.05
+
+---
+
+## Interpretation of Results
+
+* The **very low R-squared value** indicates that dosage explains **less than 1%** of the variation in patient improvement scores.
+* The **non-significant p-value** shows that the relationship between dosage and improvement score is **not statistically significant**.
+* This means that **changes in dosage alone do not reliably predict patient improvement**.
+
+---
    * pivot analysis to compare patient outcomes across different drugs or categories
 
 4. **Visualization and Reporting**
